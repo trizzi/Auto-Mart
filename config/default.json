@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://ric123:ric123@automart.dvvyh.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
